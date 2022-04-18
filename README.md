@@ -44,7 +44,7 @@ Le menu principal est divisé en 4 options.
 ### 5) Générer le rapport Flake8
 - Installez flake8 avec la commande: 
 ```
-pip intall flake8-html
+pip install flake8-html
 ```
 - S'il n'existe pas, créer un fichier setup.cfg
 - Ecrire le texte suivant dedans:
