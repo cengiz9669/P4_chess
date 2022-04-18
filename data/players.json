@@ -1,0 +1,1 @@
+{"_default": {"1": {"name": "toto", "first_name": "toto", "dob": "15-02-1996", "sex": "H", "total_score": 7.0, "rank": 1}, "2": {"name": "tata", "first_name": "tata", "dob": "15-02-1996", "sex": "F", "total_score": 1.0, "rank": 2}, "3": {"name": "ismael", "first_name": "ismael", "dob": "15-02-1996", "sex": "H", "total_score": 0, "rank": 1000}}}
