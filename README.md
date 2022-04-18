@@ -1,10 +1,8 @@
-# OpenClassrooms: Projet 4: Chess Tournament
-Ce programme a été créé dans le cadre du projet 4 d'OpenClassrooms. Il s'agit d'un gestionnaire de tournois d'échecs.
-## Installation:
+# Installation:
 ```
-git clone : 
+git clone : https://github.com/cengiz9669/P4_chess.git
 ```
-Placez vous dans le dossier P4_OpenC_BULU, puis créez un nouvel environnement virtuel:
+Placez vous dans le dossier P4_chess, puis créez un nouvel environnement virtuel:
 ```
 python3 -m venv env
 ```
@@ -30,7 +28,7 @@ python main.py
 Le menu principal est divisé en 4 options.
 ### 1) Créer un tournoi
 - Le programme vous permet de gérer des tournois d'échecs. Lors de la première utilisation, sélectionnez "Créer un tournoi", puis laissez vous guider.
-- Si aucun joueurs n'est présent dans la base de donnée, vous serez invité à en créer.
+- Si aucun joueur n'est présent dans la base de donnée, vous serez invité à en créer.
 - Lors d'un tournoi, vous serez invité à rentrer les résultats après chaque match. A la fin d'un tournoi, un classement sera généré.
 - Pendant le tournoi, vous aurez la possibilité de sauvegarder le tournoi en cours, en charger un nouveau, de voir ou modifier les classements.
 ### 2) Charger un tournoi
